@@ -1,5 +1,5 @@
-# awesome-of-awesome
-Collect the Awesome List of Awesome Paper or Course Repository 
+# Awesome of Awesome
+Collect the Awesome List of Awesome Paper or Course Repository.
 
 
 
