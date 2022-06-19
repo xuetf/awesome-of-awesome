@@ -7,7 +7,7 @@ Collect the Awesome List of Awesome Paper or Course Repository.
 
 - RSPapers: https://github.com/hongleizhang/RSPapers, 4.5k+ stars
 
-- RS/Search/Advertise Papers: https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising, 711+ stars
+- Industry RSPapers: https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising, 711+ stars
 
 - RSpaper: https://github.com/RUCAIBox/Awesome-RSPapers,  566+ stars
 
