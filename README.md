@@ -20,9 +20,9 @@ Collect the Awesome List of Awesome Paper or Course Repository in ML (RS/NLP/CV)
 
 - GNN4NLP: https://github.com/IndexFziQ/GNN4NLP-Papers, 711+ stars
 
-- GNN4RS: https://github.com/wusw14/GNN-in-RS  95+ stars
+- GNN4RS: https://github.com/wusw14/GNN-in-RS,  95+ stars
 
-- PretrainOnGNN: https://github.com/junxia97/awesome-pretrain-on-graphs 62+ stars
+- PretrainOnGNN: https://github.com/junxia97/awesome-pretrain-on-graphs, 62+ stars
 
 - FederatedOnGNN: https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers, 167+ stars
 
@@ -33,10 +33,17 @@ Collect the Awesome List of Awesome Paper or Course Repository in ML (RS/NLP/CV)
 
 # Awesome Pretrain
 
-
-- Chinese NLP Models: https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models: 973+ stars
+- Chinese NLP Models: https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models, 973+ stars
 - Sentence Embedding: https://github.com/Separius/awesome-sentence-embedding, 2k+ stars
 - Bert, https://github.com/cedrickchee/awesome-bert-nlp, 695+ stars
+
+# Awesome Knowledge Graph
+
+- Knowledge Graph, https://github.com/husthuke/awesome-knowledge-graph, 3.2k+ stars
+
+# Awesome Knowledge-Distillation
+
+- Knowledge-Distillation, https://github.com/dkozlov/awesome-knowledge-distillation, 2.8k+ stars
 
 # Awesome CS Courses
 
