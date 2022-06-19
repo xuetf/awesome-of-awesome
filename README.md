@@ -34,9 +34,9 @@ Collect the Awesome List of Awesome Paper or Course Repository.
 # Awesome Pretrain
 
 
-- chinese nlp models: https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models: 973+ stars
-- sentence embedding: https://github.com/Separius/awesome-sentence-embedding, 2k+ stars
-- bert, https://github.com/cedrickchee/awesome-bert-nlp, 695+ stars
+- Chinese NLP Models: https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models: 973+ stars
+- Sentence Embedding: https://github.com/Separius/awesome-sentence-embedding, 2k+ stars
+- Bert, https://github.com/cedrickchee/awesome-bert-nlp, 695+ stars
 
 # Awesome CS Courses
 
