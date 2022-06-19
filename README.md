@@ -1,5 +1,5 @@
 # Awesome of Awesome
-Collect the Awesome List of Awesome Paper or Course Repository.
+Collect the Awesome List of Awesome Paper or Course Repository in ML (RS/NLP/CV).
 
 
 
