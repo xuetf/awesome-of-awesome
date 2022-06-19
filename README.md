@@ -22,8 +22,9 @@ Collect the Awesome List of Awesome Paper or Course Repository.
 
 - GNN4RS: https://github.com/wusw14/GNN-in-RS  95+ stars
 
-- Pretrain4GNN: https://github.com/junxia97/awesome-pretrain-on-graphs 62+ stars
+- PretrainOnGNN: https://github.com/junxia97/awesome-pretrain-on-graphs 62+ stars
 
+- FederatedOnGNN: https://github.com/huweibo/Awesome-Federated-Learning-on-Graph-and-GNN-papers, 167+ stars
 
 # Awesome Multimodal Papers
 
